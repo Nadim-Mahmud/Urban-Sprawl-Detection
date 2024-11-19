@@ -1,0 +1,5 @@
+# Ignore GeoTIFF files
+*.tif
+*.tiff
+*.TIF
+*.TIFF
